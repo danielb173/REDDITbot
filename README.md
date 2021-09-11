@@ -1,2 +1,3 @@
 # REDDITbot
-Place holder for upcoming Python project.
+
+# Reddit bot to respond to comments, using PRAW.
